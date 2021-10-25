@@ -1,4 +1,11 @@
-### Hallo! 👋
+#### Hallo!👋 Thanks for visiting my profile😊 I do appreciate a feedback 🙏
+
+
+ ### <div align="center"> **About Me**</div>
+I started my developer marathon again in 2021 @ [freecodecamp](https://www.freecodecamp.org/shagariboy) focusing on JavaScript. Currently improving my python skills @ Cisco Network Academy
+
+
+
 
 <!--
 **shagariboy/shagariboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
