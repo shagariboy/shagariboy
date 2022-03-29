@@ -9,7 +9,7 @@
 </ul>
 
 🔗 <b>Portfolio </b>
-    <i>loading....</i>
+    <i>https://pubyana.netlify.app/</i>
 
 ### <div align="left"> **Currently**</div>
 <ul>
