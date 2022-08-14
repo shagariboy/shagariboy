@@ -1,27 +1,48 @@
-#### Hallo!👋 Thanks for visiting my profile😊 I do appreciate a feedback 🙏
+<h1 align="center"># Hallo!👋, I'm Nnamdi. </h1>
+<u></u>
 
-👨🏾‍💻 Web Front-end Developer
+<h2 align="center">👨🏾‍💻 A front-end developer from Lagos, NG</h2>
 
-🔧 <b>Tech Stack</b>
+
+- ##### 🌱 I’m currently working on [React UI-Kit](https://github.com/shagariboy/my-kit).
+
+- ##### 🌱 I’m currently learning Front-end development @ #100dev with @Leon.
+
+- ##### 👯 I’m looking to collaborate on all and everything, as long as is profers solutions
+ 
+- ##### 💬 Ask me about my job availability [nnamdiezeh0@gmail.com](mailto:nnamdiezeh0@gmail.com)
+
+- ##### ⚡ Fun fact: Football Manager addict
+ 
+
+
+🔧 <b>Languages and Tools</b>
 <ul>
-  <li>Language: Javascript | HTML/CSS</li>
- <li>Interest: Python | React</li>
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/javascript.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/python.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/text%20editors/vscode.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/heroku.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/html5.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/boostrap.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/react.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/gcloud.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/css.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/iconoir-icons/iconoir/master/icons/figma.svg?sanitize=true" />
+
 </ul>
+
 
 🔗 <b>Portfolio </b>
     <i>https://pubyana.netlify.app/</i>
 
-### <div align="left"> **Currently**</div>
-<ul>
- <li>🌱 I’m currently learning Front-end development @ #100dev with @Leon</li>
- <li>👯 I’m looking to collaborate on all and everything, as long as is profers solutions</li>
- <li>💬 Ask me about my job availability</li>
- </ul>
-
-
-
-<h2><b><i>⚡ Fun fact: Football Manager addict</i></b></h2>
 
 
 
 
+<h2><b><i></i></b></h2>
+
+
+
+
+## Thanks for visiting my profile😊 I do appreciate a feedback 🙏
