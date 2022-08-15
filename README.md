@@ -4,7 +4,7 @@
 <h2 align="center">👨🏾‍💻 A front-end developer from Lagos, NG</h2>
 
 
-- ##### 🌱 I’m currently working on [React UI-Kit](https://github.com/shagariboy/my-kit).
+- ##### 🌱 I’m currently working on [Nigerian Cuisine Order/Delivery website designed with React](https://github.com/shagariboy/culture-kitchen).
 
 - ##### 🌱 I’m currently learning Front-end development @ #100dev with @Leon.
 
