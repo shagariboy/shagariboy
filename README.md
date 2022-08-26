@@ -2,7 +2,7 @@
 <u></u>
 
 <h2 align="center">👨🏾‍💻 A front-end developer from Lagos, NG</h2>
-[Profile views](https://komarev.com/ghpvc/?username=shagariboy&color=blue&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=shagariboy&color=blue&style=plastic)
 
 - ##### 🌱 I’m currently working on [Nigerian Cuisine Order/Delivery website designed with React](https://github.com/shagariboy/culture-kitchen).
 
