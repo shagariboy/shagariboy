@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=shagariboy&color=blue&style=plastic)
 
-- ##### 🌱 I’m currently working on [Dev Portfolio with React](https://github.com/shagariboy/my-react-portfolio).
+- ##### 🌱 I’m currently working on [Rest Countries API with React](https://github.com/shagariboy/countries-api).
 
 - ##### 🌱 I’m currently learning Front-end development @ #100dev with @Leon.
 
