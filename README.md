@@ -36,7 +36,7 @@
 
 
 🔗 <b>Portfolio </b>
-    <i>https://nd-porfolio.netlify.app/</i>
+    <i>[Front-end Portfolio](https://nnamdi-ezeh-portfolio.netlify.app/)</i>
 
 
 
